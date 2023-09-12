@@ -4,6 +4,10 @@ test-output/
 target/
 build/
 gradle/
+.gradle
+build.gradle
+gradlew.bat
+gradlew
 ##############################
 ## Java
 ##############################
